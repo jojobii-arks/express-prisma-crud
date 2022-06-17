@@ -6,3 +6,10 @@
 4. Run prisma generate to generate the Prisma Client. You can then start querying your database.
 
 https://www.prisma.io/docs/reference/api-reference/command-reference
+
+#### Run PostgreSQL
+
+```bash
+docker compose create
+docker compose start
+```
